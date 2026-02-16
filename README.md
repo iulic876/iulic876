@@ -52,20 +52,16 @@ I build real systems used in business environments — including financial platf
 
 ---
 
-## 📊 GitHub Stats
-
-![Iulian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iulic876&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iulic876&layout=compact)
-
----
-
 ## 🌍 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/iulian-botnaru-6119a1294/
 - Portfolio: https://portfolio-theta-olive-24.vercel.app/
 
 ---
+
+## 🌍 Connect my Team
+
+- https://nomadsgl.com
 
 ## ⚡ Current focus
 
