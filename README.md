@@ -66,3 +66,5 @@ I build real systems used in business environments — including financial platf
 ## ⚡ Current focus
 
 Building scalable SaaS systems, improving architecture, and developing high-performance full-stack applications.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iulic876)](https://git.io/streak-stats) 
